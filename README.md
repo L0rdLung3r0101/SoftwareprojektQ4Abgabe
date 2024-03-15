@@ -5,7 +5,7 @@
 - im gleichen Ordner befindet sich die .jar Datei mit .bat Datei zum Ausführen
 - die Dateien des Servers befinden sich im "src"-Ordner (sollte die .jar-Datei Probleme bereiten, dann bitte die ServerApp.java Datei verwenden)
 - die aktiven Verfasser der Dateien sind in Zeile 1 jeder Datei als Kommentar aufgeführt
-- zum Ausführen der Dateien muss sich der Rechner im Schulnetzwerk befinden (oder einen anderen Weg für den Zugriff auf die Datenbank beitzen)
+- zum Ausführen der Dateien muss sich der Rechner im Schulnetzwerk befinden (oder einen anderen Weg für den Zugriff auf die Datenbank besitzen)
 
 
 ==> Zum Auführen wird zudem noch die folgende Tabelle benötigt:
@@ -33,7 +33,7 @@ Logindaten eingeben
 
 Empfangen neuer Nachrichten:
 -> "chat <chatID>"
-<- "message|timestamp|authorName|message|timestamp|authorName|..."
+<- "chat message|timestamp|authorName|message|timestamp|authorName|..."
 
 Empfangen aller Chats (für den startup):
 -> "chats"
