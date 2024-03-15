@@ -8,7 +8,7 @@
 - zum Ausführen der Dateien muss sich der Rechner im Schulnetzwerk befinden (oder einen anderen Weg für den Zugriff auf die Datenbank besitzen)
 
 
-==> Zum Auführen wird zudem noch die folgende Tabelle benötigt:
+==> Zum Ausführen wird zudem noch die folgende Tabelle benötigt:
 
 CREATE TABLE member_of(
 
