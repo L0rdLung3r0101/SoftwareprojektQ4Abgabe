@@ -8,7 +8,7 @@
 - zum Ausführen der Dateien muss sich der Rechner im Schulnetzwerk befinden (oder einen anderen Weg für den Zugriff auf die Datenbank beitzen)
 
 
-Zum Auführen wird zudem noch die folgende Tabelle benötigt:
+==> Zum Auführen wird zudem noch die folgende Tabelle benötigt:
 
 CREATE TABLE member_of(
 
@@ -21,7 +21,8 @@ foreign key(user_id) references users(id)
 );
 
 
-Kommunikation zw. Front- und Backend (Sciht des Frontend):
+
+==> Kommunikation zw. Front- und Backend (Sicht des Frontend):
 
 
 Logindaten eingeben
