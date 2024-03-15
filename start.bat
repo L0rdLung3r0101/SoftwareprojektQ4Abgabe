@@ -1,0 +1,1 @@
+java -jar SoftwareprojektQ4Server.jar
